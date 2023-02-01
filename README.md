@@ -3,10 +3,10 @@
 - 🔭 Procurando o primeiro emprego como dev front-end
 - 🌱 Estudando React e Node.js
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="135em" align="center" src="https://github-readme-stats.vercel.app/api?username=Joao-Scarpim&hide=prs,issues,contribs&count_private=true&show_icons=true&theme=rose_pine" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="135em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Scarpim&layout=compact&theme=rose_pine" />
-</a>
+
+<div>
+      <a href="https://github.com/Joao-Scarpim">
+     <img height="135em" align="center" src="https://github-readme-stats.vercel.app/api?username=Joao-Scarpim&hide=prs,issues,contribs&count_private=true&show_icons=true&theme=rose_pine" />
+     <img height="135em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Scarpim&layout=compact&theme=rose_pine" />
+</div>
 
