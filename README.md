@@ -1,6 +1,6 @@
 ### Olá! Eu sou o João Scarpim
 
-- 🖥 Desenvolvedor RPA Python
+- 🖥 Desenvolvedor Python
 - 🧠 Estudando Python e suas vertentes e frameworks
 
 
