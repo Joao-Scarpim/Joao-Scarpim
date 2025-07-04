@@ -1,6 +1,6 @@
 ### Olá! Eu sou o João Scarpim
 
-- 🖥 Procurando o primeiro emprego como dev júnior
+- 🖥 Desenvolvedor RPA Python
 - 🧠 Estudando Python e suas vertentes e frameworks
 
 
